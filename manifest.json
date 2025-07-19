@@ -1,0 +1,20 @@
+{
+  "name": "Stopwatch PWA",
+  "short_name": "Stopwatch",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#222222",
+  "icons": [
+    {
+      "src": "icons/clock_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/clock_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
